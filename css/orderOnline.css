@@ -1,0 +1,46 @@
+.main-header {
+    background: url(../img/orderOnline/banner.jpg) no-repeat;
+    background-size: cover;
+    min-height: 610px;
+}
+
+.bg-image-2 {
+    background: url('../img/introduction/banner2.jpg') no-repeat center fixed;
+    -webkit-background-size: 100% auto;
+    -moz-background-size: 100% auto;
+    -o-background-size: 100% auto;
+    background-size: 100% auto;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#portfolio2,
+#portfolio4 {
+    background-color: rgb(248, 248, 248);
+}
+
+ul {
+    /* border: 1px solid red; */
+    padding: 0;
+}
+
+.cta-info {
+    border: 0px solid #FFD34E;
+}
+
+.my-ul {
+    margin-bottom: 40px;
+}
+
+.my-ul li:nth-child(1) {
+    margin-bottom: 20px;
+    color: #f2f2f2;
+}
+
+.my-span {
+    background-color: orange;
+    padding: 5px 15px;
+    border-radius: 15px;
+}
